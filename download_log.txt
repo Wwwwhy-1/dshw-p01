@@ -1,0 +1,25 @@
+# 数据下载日志 - 开始时间: 2026-05-22 14:07:35
+[2026-05-22 14:07:37] SUCCESS  stock_601398  shape=(1544, 7)
+[2026-05-22 14:07:38] SUCCESS  stock_000001  shape=(1544, 7)
+[2026-05-22 14:07:40] SUCCESS  stock_000625  shape=(1544, 7)
+[2026-05-22 14:07:42] SUCCESS  stock_600104  shape=(1544, 7)
+[2026-05-22 14:07:44] SUCCESS  stock_000002  shape=(1544, 7)
+[2026-05-22 14:07:45] SUCCESS  stock_600048  shape=(1544, 7)
+[2026-05-22 14:07:50] SUCCESS  stock_000858  shape=(1544, 7)
+[2026-05-22 14:07:58] SUCCESS  stock_600519  shape=(1544, 7)
+[2026-05-22 14:08:00] SUCCESS  stock_601857  shape=(1544, 7)
+[2026-05-22 14:08:01] SUCCESS  stock_600028  shape=(1544, 7)
+[2026-05-22 14:08:05] SUCCESS  index_000300  shape=(1544, 7)
+[2026-05-22 14:08:07] SUCCESS  index_000905  shape=(1544, 7)
+[2026-05-22 14:09:12] FAILED   macro_cpi  Error: "['cpi_yoy'] not in index"
+[2026-05-22 14:09:15] SUCCESS  macro_m2  shape=(76, 2)
+[2026-05-22 14:09:37] SUCCESS  finance_601398  records=14
+[2026-05-22 14:09:58] SUCCESS  finance_000001  records=14
+[2026-05-22 14:10:20] SUCCESS  finance_000625  records=14
+[2026-05-22 14:10:42] SUCCESS  finance_600104  records=14
+[2026-05-22 14:11:03] SUCCESS  finance_000002  records=14
+[2026-05-22 14:11:25] SUCCESS  finance_600048  records=14
+[2026-05-22 14:11:47] SUCCESS  finance_000858  records=14
+[2026-05-22 14:12:08] SUCCESS  finance_600519  records=14
+[2026-05-22 14:12:30] SUCCESS  finance_601857  records=14
+[2026-05-22 14:12:52] SUCCESS  finance_600028  records=14
